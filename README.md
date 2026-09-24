@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> # End of Life
+
 # learning-curve
 MacMillan Learning Curve Modification
 
